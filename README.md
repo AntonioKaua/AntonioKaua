@@ -60,7 +60,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AntonioKaua/AntonioKaua/output/snake.svg" alt="Snake animation" />
 
 ###
 
