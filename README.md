@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Olá, tudo bem?</h1>
 
 ###
 
-<p align="left">Olá, meu nome é Antônio Kauã, e atualmente estou estudando para conseguir uma vaga de desenvolvedor jr. Busco ganhar mais experiência no mercado de trabalho e estou em busca de novas oportunidades.</p>
+<p align="left">Meu nome é Antônio Kauã, e atualmente estou estudando para conseguir uma vaga de desenvolvedor jr. Busco ganhar mais experiência no mercado de trabalho e estou em busca de novas oportunidades.</p>
 
 ###
 
@@ -60,12 +60,15 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AntonioKaua&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AntonioKaua&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AntonioKaua&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AntonioKaua&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img height="200" src="https://steamuserimages-a.akamaihd.net/ugc/2270439842287501514/8000C86A330A1CF28B73E68A8BA0497083046F0A/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
 </div>
 
 ###
